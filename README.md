@@ -15,7 +15,7 @@ https://github.com/GaParmar/img2img-turbo
 https://arxiv.org/abs/2403.12036
 
 ### 🖼 Output
-![Screenshot 2024-03-20 074414](https://github.com/camenduru/img2img-turbo-jupyter/assets/54370274/54500000-7cc4-4a57-b1fd-253b5ad53b63)
+![Screenshot 2024-03-20 080926](https://github.com/camenduru/img2img-turbo-jupyter/assets/54370274/c09888f1-b0e3-4b5d-b841-93d14d443794)
 
 ### 🏢 Sponsor
 https://modelslab.com
